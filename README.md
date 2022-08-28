@@ -1,1 +1,3 @@
-# kaiyum
+👋 Hi, I’m @abdul-kaiyum-p
+👀 I’m interested in programming...
+🌱 I’m currently learning full stack developing.
